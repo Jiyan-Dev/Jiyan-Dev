@@ -37,7 +37,7 @@
 const jiyan = {
     role: "Junior Web Developer",
     location: "Philippines",
-    code: ["HTML", "CSS", "JavaScript"],
+    code: ["HTML", "CSS", "JavaScript","React","PHP"],
     tools: ["Git", "VS Code", "Linux"],
     security: ["Kali Linux", "OWASP", "Pentesting"],
     currentFocus: "Building secure web applications",
