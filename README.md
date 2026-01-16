@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jiyan%20Dev&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Junior+Web+Developer+%F0%9F%92%BB;Security+Enthusiast+%F0%9F%94%90;Penetration+Testing+%F0%9F%8E%AF;Blue+Team+Defender+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+in+Progress;Cyber+Security;Ethical+Hacker+in+Training;Cloud+Explorer" alt="Typing SVG" /></a>
 
-<!-- Social Badges with Glow Effect -->
+<!-- Social Badges -->
 <p align="center">
   <a href="mailto:norielgian.d@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,188 +22,190 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Jiyan-Dev&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<br/>
+---
 
 ##  About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+I'm a junior developer from the **Philippines** passionate about building secure, scalable web applications. With a strong interest in cybersecurity and ethical hacking, I combine clean code practices with security-first thinking. I'm actively seeking opportunities to grow my skills in a collaborative environment.
 
 ```typescript
 const jiyan = {
-    role: "Junior Web Developer",
-    location: "Philippines",
-    code: ["HTML", "CSS", "JavaScript","React","PHP"],
-    tools: ["Git", "VS Code", "Linux"],
-    security: ["Kali Linux", "OWASP", "Pentesting"],
-    currentFocus: "Building secure web applications",
-    funFact: "I debug code and hunt vulnerabilities ⚡"
+  role: "Junior Web Developer & Security Enthusiast",
+  location: "Philippines",
+  experience: "Building projects | Learning continuously | Security-focused",
+  
+  skills: {
+    frontend: ["HTML5", "CSS3", "JavaScript (ES6+)", "React"],
+    backend: ["PHP", "RESTful APIs"],
+    tools: ["Git", "GitHub", "VS Code", "Linux", "Docker (basics)"],
+    security: ["OWASP Top 10", "Web App Security", "Basic Pentesting", "Threat Analysis"]
+  },
+  
+  currentFocus: "Mastering JavaScript frameworks & defensive security practices",
+  learningGoals: ["Full-stack development", "Blue team operations", "Incident response", "Threat detection & analysis"],
+  motto: "Write secure code today, defend systems tomorrow"
 };
 ```
 
-<br/>
-
-- Currently working on strengthening my **web development** and **security** skills  
-- Learning **advanced JavaScript**, **penetration testing**, and **blue team operations**  
-- Open to **junior roles**, **internships**, and **collaborative projects**  
-- Ask me about **HTML/CSS**, **JavaScript**, **web security**, or **ethical hacking**  
-- Motto: *"Clean code today, secure systems tomorrow"*
-
-<br clear="right"/>
+**Key Highlights:**
+-  Junior developer with a focus on defensive security
+-  Passionate about blue team operations & incident response
+-  Continuous learner in web development & cybersecurity defense
+-  Open to collaborations and mentorship
+-  Actively seeking junior roles, internships, and security-focused projects
 
 ---
 
-##  Tech Arsenal
+##  Technical Skills
 
-<div align="center">
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-###  Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=php&theme=dark" />
 
-###  Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
-###  Security & Pentesting
+### Security & Testing
 <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-<img src="https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentesting" />
+<img src="https://img.shields.io/badge/Blue%20Team-4A90E2?style=for-the-badge&logo=shield&logoColor=white" alt="Blue Team" />
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jiyan-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiyan-Dev&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyan-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyan-Dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&border_radius=10&height=300" alt="Contribution Graph" />
 </div>
 
 ---
 
-##  GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiyan-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiyan-Dev&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyan-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyan-Dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&border_radius=10&height=300" alt="Contribution Graph" />
-</div>
-
----
-
-##  Learning Journey
-
-<div align="center">
-
-###  Current Focus Areas
-
-</div>
+##  Current Learning Path
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-####  JavaScript Mastery
- ES6+ Features  
- Async/Await & Promises  
- DOM Manipulation  
- API Integration  
- Modern Frameworks
+###  JavaScript Mastery
+- ES6+ Advanced Features
+- Async Programming (Promises, Async/Await)
+- DOM & Event Handling
+- API Integration & Fetch
+- React Hooks & State Management
 
 </td>
 <td align="center" width="33%">
 
-####  Web Security
- OWASP Top 10  
- Secure Coding Practices  
- XSS & CSRF Prevention  
- SQL Injection Defense  
- Authentication & Authorization
+###  Web Security
+- OWASP Top 10 Vulnerabilities
+- Secure Coding Practices
+- XSS & CSRF Prevention
+- SQL Injection Defense
+- Authentication & Authorization Best Practices
 
 </td>
 <td align="center" width="33%">
 
-####  Penetration Testing
- Network Scanning  
- Web App Testing  
- Vulnerability Assessment  
- Exploit Development  
- Report Writing
+###  Blue Team & Defensive Security
+- SOC Operations Fundamentals
+- Incident Detection & Response
+- Log Analysis & SIEM Tools
+- Threat Intelligence & Analysis
+- Network Defense & Monitoring
+- Security Monitoring Best Practices
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-
-##  Core Principles
-
-<div align="center">
+## 💡 Core Development Philosophy
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║       Write Clean, Readable, Maintainable Code           ║
-║                                                          ║
-║       Security is Not Optional — It's Essential          ║
-║                                                          ║
-║       Learn Continuously, Improve Consistently           ║
-║                                                          ║
-║       Share Knowledge, Collaborate Generously            ║
-║                                                          ║
-║       Test Early, Test Often, Break Things Safely        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║       Code should be clean, readable, and maintainable     ║
+║                                                            ║
+║       Security is not an afterthought — it's essential     ║
+║                                                            ║
+║      Learn continuously, improve consistently              ║
+║                                                            ║
+║      Share knowledge, lift others up                       ║
+║                                                            ║
+║       Test early, test often, fail safely                  ║
+║                                                            ║
+║       Performance matters; optimization is a feature       ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 ---
 
-##  Interests Beyond Code
+##  What I'm Looking For
 
-<div align="center">
+✨ **Opportunities in:**
+- Junior Full-Stack Developer positions
+- Web Development Internships
+- Security-focused projects
+- Open-source contributions
+- Mentorship & collaborative learning
 
-|    Gaming |    Music |  Reading   |  Fitness   |  Coffee   |
-|:---------:|:--------:|:----------:|:----------:|:---------:|
-| Strategy & RPGs | Electronic & Lo-fi | Tech & Sci-Fi |  Hiking | Espresso Lover |
-
-</div>
+  **Ready to:**
+- Build real-world applications
+- Contribute to team projects
+- Learn new technologies quickly
+- Apply security best practices
+- Take on challenging problems
 
 ---
 
-## 📫 Let's Connect!
+##  Fun Facts
+
+| Gaming | Music | Reading | Fitness | Coffee |
+|:------:|:-----:|:-------:|:-------:|:------:|
+| Strategy & RPGs | Lo-fi & Electronic | Tech & Sci-Fi | Hiking | Espresso |
+
+---
+
+##  Let's Connect!
 
 <div align="center">
 
-### 💬 I'm actively seeking opportunities!
+### I'm actively looking for opportunities! 
 
-Looking for **junior developer positions**, **internships**, or **open-source collaborations**  
-Let's build something amazing together! 🚀
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📧%20Drop%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norielgian.d@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝%20Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+**Let's build something secure and amazing together.**
 
 <br/>
 
-### ⚡ Random Dev Quote
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norielgian.d@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/🐙%20Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiyan-Dev)
+
+<br/>
+
+###  Random Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Jiyan-Dev/Jiyan-Dev/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**✨ Thanks for stopping by! Happy coding! 👨‍💻**
+**✨ Thanks for visiting! Let's code something great! ✨**
 
 *"The only way to do great work is to love what you do." – Steve Jobs*
 
