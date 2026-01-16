@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jiyan%20Dev&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Security+Enthusiast+%F0%9F%94%90;Ethical+Hacker+in+Training+%F0%9F%8E%AF;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+in+Progress;Cybersecurity;Ethical+Hacker+in+Training;Cloud+Explorer" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a junior developer from the **Philippines** passionate about building secure, scalable web applications. With a strong interest in cybersecurity and ethical hacking, I combine clean code practices with security-first thinking. I'm actively seeking opportunities to grow my skills in a collaborative environment.
 
@@ -55,17 +55,17 @@ const jiyan = {
 ```
 
 **Key Highlights:**
-- 🎯 Junior developer with a focus on defensive security
-- 🛡️ Passionate about blue team operations & incident response
-- 📚 Continuous learner in web development & cybersecurity defense
-- 🤝 Open to collaborations and mentorship
-- 🚀 Actively seeking junior roles, internships, and security-focused projects
+-  Junior developer with a focus on defensive security
+-  Passionate about blue team operations & incident response
+-  Continuous learner in web development & cybersecurity defense
+-  Open to collaborations and mentorship
+-  Actively seeking junior roles, internships, and security-focused projects
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
@@ -83,7 +83,7 @@ const jiyan = {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jiyan-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
@@ -97,13 +97,13 @@ const jiyan = {
 
 ---
 
-## 🎯 Current Learning Path
+##  Current Learning Path
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🚀 JavaScript Mastery
+###  JavaScript Mastery
 - ES6+ Advanced Features
 - Async Programming (Promises, Async/Await)
 - DOM & Event Handling
@@ -113,7 +113,7 @@ const jiyan = {
 </td>
 <td align="center" width="33%">
 
-### 🔐 Web Security
+###  Web Security
 - OWASP Top 10 Vulnerabilities
 - Secure Coding Practices
 - XSS & CSRF Prevention
@@ -123,7 +123,7 @@ const jiyan = {
 </td>
 <td align="center" width="33%">
 
-### 🛡️ Blue Team & Defensive Security
+###  Blue Team & Defensive Security
 - SOC Operations Fundamentals
 - Incident Detection & Response
 - Log Analysis & SIEM Tools
@@ -142,24 +142,24 @@ const jiyan = {
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║   ✅ Code should be clean, readable, and maintainable     ║
+║       Code should be clean, readable, and maintainable     ║
 ║                                                            ║
-║   🔒 Security is not an afterthought — it's essential     ║
+║       Security is not an afterthought — it's essential     ║
 ║                                                            ║
-║   📈 Learn continuously, improve consistently              ║
+║       Learn continuously, improve consistently             ║
 ║                                                            ║
-║   🤝 Share knowledge, lift others up                       ║
+║       Share knowledge, lift others up                      ║
 ║                                                            ║
-║   🧪 Test early, test often, fail safely                  ║
+║       Test early, test often, fail safely                  ║
 ║                                                            ║
-║   🎯 Performance matters; optimization is a feature       ║
+║       Performance matters; optimization is a feature       ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 📌 What I'm Looking For
+##  What I'm Looking For
 
 ✨ **Opportunities in:**
 - Junior Full-Stack Developer positions
@@ -168,7 +168,7 @@ const jiyan = {
 - Open-source contributions
 - Mentorship & collaborative learning
 
-💪 **Ready to:**
+ **Ready to:**
 - Build real-world applications
 - Contribute to team projects
 - Learn new technologies quickly
@@ -181,7 +181,7 @@ const jiyan = {
 
 | Gaming | Music | Reading | Fitness | Coffee |
 |:------:|:-----:|:-------:|:-------:|:------:|
-| Strategy & RPGs | Lo-fi & Electronic | Tech & Sci-Fi | Hiking | Espresso Enthusiast |
+| Strategy & RPGs | Lo-fi & Electronic | Tech & Sci-Fi | Hiking | Espresso  |
 
 ---
 
@@ -189,7 +189,7 @@ const jiyan = {
 
 <div align="center">
 
-### I'm actively looking for opportunities! 🚀
+### I'm actively looking for opportunities! 
 
 **Let's build something secure and amazing together.**
 
@@ -201,7 +201,7 @@ const jiyan = {
 
 <br/>
 
-### 💬 Random Dev Wisdom
+###  Random Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
